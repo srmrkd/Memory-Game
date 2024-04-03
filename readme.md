@@ -1,3 +1,9 @@
+## Status:
+Done!
+
+## About:
 This is a simple memory game for matching cards inside a container.
 
-Purpose: refreshing the containers logic and styles
+
+## Goal:
+refreshing the containers logic and styles in CSS
